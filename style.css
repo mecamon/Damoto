@@ -1,0 +1,42 @@
+body {
+    padding: 10px;
+    margin: 0;
+}
+#header-background {
+    background-image: url("./assets//pattern.jpg");
+}
+h1 {
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+    font-weight: bold;
+}
+h2 {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+h1, h2, span, p {
+    font-family: Helvetica;
+}
+figure {
+    margin-left: 0;
+}
+figcaption {
+    font-size: 18px;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+article span {
+    color: blue;
+    font-weight: bold;
+}
+#brushes {
+    background-color: mediumspringgreen;
+}
+#frames {
+    background-color: lightcoral;
+}
+#paint {
+    background-color: skyblue;
+}
