@@ -5,7 +5,7 @@ An app for testing the skills learned during the sections of HTML and CSS in *co
 ## Table of contents
 
 * [General info](#general-info)
-* [Technologies](#technolies)
+* [Technologies](#technologies)
 * [Scope of functionalities](#scope-of-functionalities)
 * [Launch](#launch)
 * [Project status](#project-status)
