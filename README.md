@@ -30,4 +30,4 @@ Just make a clone of the repository in a desired directory and then open the *in
 
 ## Project status
 
-Just started!
+Project finnished!
